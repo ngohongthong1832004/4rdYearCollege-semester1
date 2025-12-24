@@ -1,0 +1,77 @@
+{
+  "add_prefix_space": true,
+  "added_tokens_decoder": {
+    "0": {
+      "content": "<pad>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "1": {
+      "content": "</s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "2": {
+      "content": "<unk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "250100": {
+      "content": "<TIKTOK>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "250101": {
+      "content": "<FACEBOOK>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "250102": {
+      "content": "<YOUTUBE>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "250103": {
+      "content": "<COMMENT>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    "<TIKTOK>",
+    "<FACEBOOK>",
+    "<YOUTUBE>",
+    "<COMMENT>"
+  ],
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "</s>",
+  "extra_ids": 0,
+  "extra_special_tokens": {},
+  "legacy": false,
+  "model_max_length": 512,
+  "pad_token": "<pad>",
+  "sp_model_kwargs": {},
+  "tokenizer_class": "MT5Tokenizer",
+  "unk_token": "<unk>"
+}

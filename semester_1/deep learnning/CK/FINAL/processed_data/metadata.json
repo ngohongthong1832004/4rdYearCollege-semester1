@@ -1,0 +1,18 @@
+{
+  "total_samples": 324204,
+  "train_samples": 259050,
+  "val_samples": 32529,
+  "test_samples": 32625,
+  "unique_posts": 6750,
+  "platforms": {
+    "tiktok": 266568,
+    "youtube": 56493,
+    "facebook": 1143
+  },
+  "sentiments": {
+    "trung tính": 136158,
+    "tích cực": 88627,
+    "tự nhiên": 78338,
+    "tiêu cực": 21081
+  }
+}

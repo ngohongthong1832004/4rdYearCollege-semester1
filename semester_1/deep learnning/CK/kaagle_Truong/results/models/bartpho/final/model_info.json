@@ -1,0 +1,6 @@
+{
+  "model_name": "vinai/bartpho-syllable",
+  "vocab_size": 40034,
+  "architecture": "BARTpho (Encoder-Decoder)",
+  "task": "Seq2Seq"
+}
